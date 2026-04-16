@@ -1,0 +1,17 @@
+anno_1	anno_2	anno_1_theme	anno_2_theme	jaccard_sim
+group_1	group_2	VaxSymptoms	PostVaxSymptoms	0.6502426278462112
+group_1	group_2	GovGoodPolicies	VaxDistributionIssueDueToLocalPolicy	0.18892142508540752
+group_1	group_2	VaxAppointmentInfo	VaxAvailabilityInfo	0.568417928168596
+group_1	group_2	VaxApprovalInfo	FDAapproval	0.38199931295087597
+group_1	group_2	VaxDoesntWork	VaxDoesMoreHarmThanGood	0.15534287748161038
+group_1	group_2	UnjustifiedFearOfVax	VaxDoesMoreHarmThanGood	0.05822416302765648
+group_1	group_2	IGotTheVax	#IGotMyVaccine	0.48733135899967095
+group_1	group_2	GovBadPolicies	ReasonsForUSLaggingOnVaccines	0.20891657334826427
+group_1	group_2	VaxLessensSymptoms	VaxLessensSymptoms	0.4171148000935235
+group_2	group_1	PostVaxSymptoms	VaxSymptoms	0.6502426278462112
+group_2	group_1	ReasonsForUSLaggingOnVaccines	GovBadPolicies	0.20891657334826427
+group_2	group_1	VaxDistributionIssueDueToLocalPolicy	GovGoodPolicies	0.18892142508540752
+group_2	group_1	VaxAvailabilityInfo	VaxAppointmentInfo	0.568417928168596
+group_2	group_1	#IGotMyVaccine	IGotTheVax	0.48733135899967095
+group_2	group_1	VaxDoesMoreHarmThanGood	VaxDoesntWork	0.15534287748161038
+group_2	group_1	FDAapproval	VaxApprovalInfo	0.38199931295087597
