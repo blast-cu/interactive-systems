@@ -1,0 +1,451 @@
+dataset	model	collaboration_setting	experiment	theme
+covid_tweets	topic_model	async	async_1	Pro Trump and against Biden/Obama
+covid_tweets	topic_model	async	async_1	Dispelling misinformation regarding death
+covid_tweets	topic_model	async	async_1	Vaccine availability
+covid_tweets	topic_model	async	async_1	2nd dose side effects
+covid_tweets	topic_model	async	async_1	Comparisons to other virus vaccines
+covid_tweets	topic_model	async	async_1	Anger over mask mandates
+covid_tweets	topic_model	async	async_1	Reminders of the 2nd vaccine
+covid_tweets	topic_model	async	async_1	Origin of the vaccine
+covid_tweets	topic_model	async	async_1	Discussing vaccines in schools
+covid_tweets	topic_model	async	async_1	Positive outcomes of vaccine
+covid_tweets	topic_model	async	async_1	Concerns regarding Johnson and Johnson vaccine
+covid_tweets	topic_model	async	async_1	CVS job openings
+covid_tweets	topic_model	async	async_1	Information aimed towards minority communities
+covid_tweets	topic_model	async	async_1	Against anti-vaxxers
+covid_tweets	topic_model	async	async_1	Calling out liars
+covid_tweets	topic_model	async	async_1	Free food for vaccinated people
+covid_tweets	topic_model	async	async_1	Vaccine card mandates
+covid_tweets	topic_model	async	async_1	Vaccine hesistancy
+covid_tweets	topic_model	async	async_1	Vaccine appointment info
+covid_tweets	topic_model	async	async_2	VaccineRolloutNews
+covid_tweets	topic_model	async	async_2	AntiTrump
+covid_tweets	topic_model	async	async_2	VaccineSideEffects
+covid_tweets	topic_model	async	async_2	VaccineTestScience
+covid_tweets	topic_model	async	async_2	HopefulPeopleGetVaccinated
+covid_tweets	topic_model	async	async_2	WhereToGetVaccine
+covid_tweets	topic_model	async	async_2	FDANews&Discourse
+covid_tweets	topic_model	async	async_2	VaccinePassportNews
+covid_tweets	topic_model	async	async_2	FakeNews
+covid_tweets	topic_model	async	async_2	VaccineAdvocacy
+covid_tweets	topic_model	async	async_2	AntiRepublican
+covid_tweets	topic_model	async	async_2	AntiDemocrat
+covid_tweets	topic_model	async	async_2	PandemicNews
+covid_tweets	topic_model	async	async_2	VaccineHesitancy
+covid_tweets	topic_model	async	async_2	POCVaccineAwareness
+covid_tweets	topic_model	async	async_2	FightingDisinformation
+covid_tweets	topic_model	async	async_2	VaccineChildRisk
+covid_tweets	topic_model	async	async_2	VaccineProblemsNews
+covid_tweets	topic_model	async	async_3	Anti-Biden and Pro-Trump Sentiment
+covid_tweets	topic_model	async	async_3	Comparing the COVID Vaccine to other Deadly Disease Vaccines(polio,measles)
+covid_tweets	topic_model	async	async_3	Anger towards COVID Deniers/COVID Deniers Passing Away
+covid_tweets	topic_model	async	async_3	Immediate After-Effects from COVID Vaccine(soreness,nausea)
+covid_tweets	topic_model	async	async_3	Family Members Receiving the COVID Vaccine
+covid_tweets	topic_model	async	async_3	Vaccine Eligibility Updates
+covid_tweets	topic_model	async	async_3	Proof of Vaccination(vaccine card/passport)
+covid_tweets	topic_model	async	async_3	Adverse Childhood Experience's being casued by COVID
+covid_tweets	topic_model	async	async_3	COVID Vaccine causing Blood Clots
+covid_tweets	topic_model	async	async_3	Unknown Long-Term Effects of COVID Vaccine
+covid_tweets	topic_model	async	async_3	Become a Pharmacy Technician Alerts
+covid_tweets	topic_model	async	async_3	COVID FDA Approval Status
+covid_tweets	topic_model	async	async_3	Anger Towards Republicans Lying about COVID
+covid_tweets	topic_model	async	async_3	Giving Info about COVID and the Vaccine to Minorities in America
+covid_tweets	topic_model	async	async_3	Walgreens Vaccine Appointment Updates
+covid_tweets	topic_model	sync	group_1	trump supporters saying biden is wrongfully taking credit for vaccine
+covid_tweets	topic_model	sync	group_1	side effects of vaccine
+covid_tweets	topic_model	sync	group_1	announcing vaccine eligibility
+covid_tweets	topic_model	sync	group_1	wholesome reactions to getting the vaccine
+covid_tweets	topic_model	sync	group_1	inefficacy of vaccine
+covid_tweets	topic_model	sync	group_1	corelation between trauma and covid
+covid_tweets	topic_model	sync	group_1	halting vaccination due to adverse effects
+covid_tweets	topic_model	sync	group_1	proof of vaccine
+covid_tweets	topic_model	sync	group_1	appeal to get vaccinated
+covid_tweets	topic_model	sync	group_1	covid related deaths
+covid_tweets	topic_model	sync	group_1	advertising for covid related jobs
+covid_tweets	topic_model	sync	group_1	freebies with proof of vaccine
+covid_tweets	topic_model	sync	group_1	concerns about  effects of vaccines
+covid_tweets	topic_model	sync	group_1	disproportionate impact and equitable recover across racial lines
+covid_tweets	topic_model	sync	group_1	political conspiracy / nicki minaj controversy
+covid_tweets	topic_model	sync	group_1	vaccine appointments
+covid_tweets	topic_model	sync	group_2	criticism of governments' response to vaccine
+covid_tweets	topic_model	sync	group_2	family covid vaccine experience
+covid_tweets	topic_model	sync	group_2	immediate personal side effects
+covid_tweets	topic_model	sync	group_2	state vaccine eligibility
+covid_tweets	topic_model	sync	group_2	non-covid vaccine comparision
+covid_tweets	topic_model	sync	group_2	institutional adverse childhood experiences
+covid_tweets	topic_model	sync	group_2	vaccine certification
+covid_tweets	topic_model	sync	group_2	anti-vaccine conspiracy outcomes
+covid_tweets	topic_model	sync	group_2	pharmacy hiring
+covid_tweets	topic_model	sync	group_2	FDA vaccine approval
+covid_tweets	topic_model	sync	group_2	long term side effects
+covid_tweets	topic_model	sync	group_2	community vaccine equity
+covid_tweets	topic_model	sync	group_2	vaccine side effects/ Nicki Minaj
+covid_tweets	topic_model	sync	group_2	covid appointment
+covid_tweets	relational	async	async_1	Receiving_first_dose_of_covid_vaccine
+covid_tweets	relational	async	async_1	Criticising_political_figures
+covid_tweets	relational	async	async_1	Promoting_covid_related_news_articles
+covid_tweets	relational	async	async_1	Vaccine_accessibility_and_distribution
+covid_tweets	relational	async	async_1	Information_about_covid_vaccine_availability_and_appointments
+covid_tweets	relational	async	async_1	Encouraging_people_to_get_the_covid_vaccine
+covid_tweets	relational	async	async_1	The_vaccine_does_not_work_because_you_can_still_get_covid
+covid_tweets	relational	async	async_1	Skepticism_over_the_covid_vaccine
+covid_tweets	relational	async	async_1	Experiences_of_vaccine_side_effects
+covid_tweets	relational	async	async_1	Praising_frontline_healthcare_workers
+covid_tweets	relational	async	async_1	Saying_that_you_can_still_get_covid_if_you_have_the_vaccine
+covid_tweets	relational	async	async_1	Receiving_second_vaccine_dose
+covid_tweets	relational	async	async_1	Encouraging_getting_the_vaccine
+covid_tweets	relational	async	async_1	Criticising_The_President
+covid_tweets	relational	async	async_1	FDA_Approval_of_covid_vaccine
+covid_tweets	relational	async	async_1	Providing_resources_to_those_who_are_not_involved_in_the_covid_debate
+covid_tweets	relational	async	async_1	Praising_Government_Leadership
+covid_tweets	relational	async	async_1	Against_covid_disbelievers
+covid_tweets	relational	async	async_1	Stating_that_the_vaccine_does_not_cause_covid
+covid_tweets	relational	async	async_2	GotVaccinated
+covid_tweets	relational	async	async_2	AntiRepublican
+covid_tweets	relational	async	async_2	WhereToGetVaccine
+covid_tweets	relational	async	async_2	AdvocateForVaccine
+covid_tweets	relational	async	async_2	VaccineSymptomReport
+covid_tweets	relational	async	async_2	VaccineEfficacyDenial
+covid_tweets	relational	async	async_2	VaccineRefusal
+covid_tweets	relational	async	async_2	VaccineKills
+covid_tweets	relational	async	async_2	AntiDemocrat
+covid_tweets	relational	async	async_2	BlameFauci
+covid_tweets	relational	async	async_3	ReceivedfirstdoseofCOVIDvaccine
+covid_tweets	relational	async	async_3	RepublicansdownplayingCOVID
+covid_tweets	relational	async	async_3	FDAapprovesCOVIDvaccine
+covid_tweets	relational	async	async_3	GettingtheCOVIDvaccine
+covid_tweets	relational	async	async_3	NewsarticlesaboutCOVIDvaccineprogress
+covid_tweets	relational	async	async_3	ProCOVIDvaccine
+covid_tweets	relational	async	async_3	Mentionsamayor
+covid_tweets	relational	async	async_3	NewsagenciesreportingontheCovidvaccine
+covid_tweets	relational	async	async_3	AntiCovidVaccine
+covid_tweets	relational	async	async_3	Covidvaccineaftereffects
+covid_tweets	relational	async	async_3	GetyourCOVIDvaccine
+covid_tweets	relational	async	async_3	BidenadministrationenforcingCOVIDvaccine
+covid_tweets	relational	async	async_3	COVIDvaccineonlyreducestheeffectsofCOVID
+covid_tweets	relational	async	async_3	HealthcareWorkers
+covid_tweets	relational	async	async_3	AntiBiden
+covid_tweets	relational	async	async_3	NegativeviewonTrump
+covid_tweets	relational	async	async_3	RepublicansresponsibleforCOVIDdeaths
+covid_tweets	relational	async	async_3	Israeloutbreak
+covid_tweets	relational	sync	group_1	VaxSymptoms
+covid_tweets	relational	sync	group_1	GovGoodPolicies
+covid_tweets	relational	sync	group_1	VaxAppointmentInfo
+covid_tweets	relational	sync	group_1	VaxApprovalInfo
+covid_tweets	relational	sync	group_1	VaxDoesntWork
+covid_tweets	relational	sync	group_1	UnjustifiedFearOfVax
+covid_tweets	relational	sync	group_1	IGotTheVax
+covid_tweets	relational	sync	group_1	GovBadPolicies
+covid_tweets	relational	sync	group_1	VaxLessensSymptoms
+covid_tweets	relational	sync	group_2	PostVaxSymptoms
+covid_tweets	relational	sync	group_2	ReasonsForUSLaggingOnVaccines
+covid_tweets	relational	sync	group_2	VaxDistributionIssueDueToLocalPolicy
+covid_tweets	relational	sync	group_2	VaxAvailabilityInfo
+covid_tweets	relational	sync	group_2	#IGotMyVaccine
+covid_tweets	relational	sync	group_2	VaxDoesMoreHarmThanGood
+covid_tweets	relational	sync	group_2	VaxLessensSymptoms
+covid_tweets	relational	sync	group_2	FDAapproval
+covid_tweets	llm-based	async	async_1	Receiving_first_dose_of_covid_vaccine
+covid_tweets	llm-based	async	async_1	Praising_Government_Leadership
+covid_tweets	llm-based	async	async_1	Providing_resources_to_those_who_are_not_involved_in_the_covid_debate
+covid_tweets	llm-based	async	async_1	Vaccine_accessibility_and_distribution
+covid_tweets	llm-based	async	async_1	Praising_frontline_healthcare_workers
+covid_tweets	llm-based	async	async_1	Promoting_covid_related_news_articles
+covid_tweets	llm-based	async	async_1	Information_about_covid_vaccine_availability_and_appointments
+covid_tweets	llm-based	async	async_1	Stating_that_the_vaccine_does_not_cause_covid
+covid_tweets	llm-based	async	async_1	Skepticism_over_the_covid_vaccine
+covid_tweets	llm-based	async	async_1	Criticising_The_President
+covid_tweets	llm-based	async	async_1	Experiences_of_vaccine_side_effects
+covid_tweets	llm-based	async	async_1	Receiving_second_vaccine_dose
+covid_tweets	llm-based	async	async_1	Encouraging_getting_the_vaccine
+covid_tweets	llm-based	async	async_1	Saying_that_you_can_still_get_covid_if_you_have_the_vaccine
+covid_tweets	llm-based	async	async_1	The_vaccine_does_not_work_because_you_can_still_get_covid
+covid_tweets	llm-based	async	async_2	GotVaccinated
+covid_tweets	llm-based	async	async_2	BlameFauci
+covid_tweets	llm-based	async	async_2	VaccineRefusal
+covid_tweets	llm-based	async	async_2	WhereToGetVaccine
+covid_tweets	llm-based	async	async_2	VaccineEfficacyDenial
+covid_tweets	llm-based	async	async_2	AdvocateForVaccine
+covid_tweets	llm-based	async	async_2	VaccineSymptomReport
+covid_tweets	llm-based	async	async_2	AntiDemocrat
+covid_tweets	llm-based	async	async_2	AntiRepublican
+covid_tweets	llm-based	async	async_2	VaccineKills
+covid_tweets	llm-based	async	async_3	received_vax
+covid_tweets	llm-based	async	async_3	negative_discourse_around_politicians
+covid_tweets	llm-based	async	async_3	vax_appointment_availability
+covid_tweets	llm-based	async	async_3	vax_approved
+covid_tweets	llm-based	async	async_3	vax_reduces_fatality
+covid_tweets	llm-based	async	async_3	positive_discourse_around_politicians
+covid_tweets	llm-based	async	async_3	news_about_vax
+covid_tweets	llm-based	async	async_3	anti_vax
+covid_tweets	llm-based	async	async_3	encourage_getting_vax
+covid_tweets	llm-based	async	async_3	side_effects_of_vaccine
+covid_tweets	llm-based	async	async_3	vax_is_ineffective_or_harmful
+covid_tweets	llm-based	async	async_3	getting_attention_of_politician
+covid_tweets	llm-based	async	async_3	sharing_stories_related_to_covid
+covid_tweets	llm-based	async	group_1	GetAVaccine
+covid_tweets	llm-based	async	group_1	CovidLiberal
+covid_tweets	llm-based	async	group_1	ScrewYouGovernment
+covid_tweets	llm-based	async	group_1	CovidDebunking
+covid_tweets	llm-based	async	group_1	GoodNewsAboutVaccines
+covid_tweets	llm-based	async	group_1	VaccineAppointmentAvailable
+covid_tweets	llm-based	async	group_1	GotFirstDose
+covid_tweets	llm-based	async	group_1	JudgingUnvaccinated
+covid_tweets	llm-based	async	group_1	ThankYouGovernment
+covid_tweets	llm-based	async	group_1	VaccineSymptomsNegative
+covid_tweets	llm-based	async	group_1	ThankYouDoctors
+covid_tweets	llm-based	async	group_1	CovidConservative
+covid_tweets	llm-based	async	group_1	VaccineDoesntPreventCovidNegative
+covid_tweets	llm-based	async	group_1	VaccineConspiracy
+covid_tweets	llm-based	async	group_1	VaccineSymptomsPositive
+covid_tweets	llm-based	async	group_2	vaccine_get_a_vaccine
+covid_tweets	llm-based	async	group_2	vaccine_politics
+covid_tweets	llm-based	async	group_2	vaccine_rollout
+covid_tweets	llm-based	async	group_2	vaccine_efficacy
+covid_tweets	llm-based	async	group_2	vaccine_first_dose
+covid_tweets	llm-based	async	group_2	vaccine_symptoms
+covid_tweets	llm-based	async	group_2	online_references
+climate_ads	topic_model	async	async_1	AntiGunBan
+climate_ads	topic_model	async	async_1	AntiWoke
+climate_ads	topic_model	async	async_1	ProtectEnvironment
+climate_ads	topic_model	async	async_1	CleanEnergyWorks
+climate_ads	topic_model	async	async_1	ActionAgainstDemSpending
+climate_ads	topic_model	async	async_1	IndigenousAndBlackAdvocacy
+climate_ads	topic_model	async	async_1	PassBidenAct
+climate_ads	topic_model	async	async_1	AntiOilPolitician
+climate_ads	topic_model	async	async_1	AntiPropertyTax
+climate_ads	topic_model	async	async_1	ProUSOilIndustry
+climate_ads	topic_model	async	async_1	ProtectRivers
+climate_ads	topic_model	async	async_1	TPUSAAd
+climate_ads	topic_model	async	async_1	EVCharging
+climate_ads	topic_model	async	async_1	OilTheft
+climate_ads	topic_model	async	async_2	pro-2A
+climate_ads	topic_model	async	async_2	donations for climate change
+climate_ads	topic_model	async	async_2	solar energy
+climate_ads	topic_model	async	async_2	advocating for city level politics
+climate_ads	topic_model	async	async_2	political activism to oppose climate change
+climate_ads	topic_model	async	async_2	criticism of liberal tax policy
+climate_ads	topic_model	async	async_2	indigenous climate justice
+climate_ads	topic_model	async	async_2	promoting legislation against climate change
+climate_ads	topic_model	async	async_2	pros of wind and solar energy
+climate_ads	topic_model	async	async_2	criticism for disfavoring US ONG production
+climate_ads	topic_model	async	async_2	kudos for confronting ONG emissions
+climate_ads	topic_model	async	async_2	access to water and promoting renewable energy
+climate_ads	topic_model	async	async_2	discussing problems with school board
+climate_ads	topic_model	async	async_2	promoting news and oped program
+climate_ads	topic_model	async	async_3	AntiGunBan
+climate_ads	topic_model	async	async_3	BidenPolicies
+climate_ads	topic_model	async	async_3	SaveEnvironment
+climate_ads	topic_model	async	async_3	AntiLiberalElectionCandidates
+climate_ads	topic_model	async	async_3	RisingEnergyCost
+climate_ads	topic_model	async	async_3	ProRenewableEnergy
+climate_ads	topic_model	async	async_3	PoliticalLeadershipTraining
+climate_ads	topic_model	async	async_3	BioFuelTheft
+climate_ads	topic_model	async	async_3	ProUSOil
+climate_ads	topic_model	async	async_3	MinorityGroupWomenAdvocacy
+climate_ads	topic_model	async	async_3	DonationsForProRiverPoliticians
+climate_ads	topic_model	async	async_3	SupportForBuildBackBetterAct
+climate_ads	topic_model	async	async_3	WaterPollutionAndContamination
+climate_ads	topic_model	async	async_3	ProCleanEnergyPolitician
+climate_ads	topic_model	async	async_3	TPUSALiveAd
+climate_ads	topic_model	async	async_3	AntiLiberalSpending
+climate_ads	topic_model	async	async_3	AntiPropertyTax
+climate_ads	topic_model	async	async_3	EnergyInfrastructureProjects
+climate_ads	topic_model	sync	group_1	AntiGunBan
+climate_ads	topic_model	sync	group_1	EnvironmentalConservation
+climate_ads	topic_model	sync	group_1	SchoolBoardFinances/GasInfrastructure
+climate_ads	topic_model	sync	group_1	AntiGridDeregulation/PoliticalActionAds
+climate_ads	topic_model	sync	group_1	CleanEnergyGoals
+climate_ads	topic_model	sync	group_1	BellbrookSugarcreekConservativeElections
+climate_ads	topic_model	sync	group_1	Unexplainable
+climate_ads	topic_model	sync	group_1	ConservativePoliticsEvents
+climate_ads	topic_model	sync	group_1	TPUSAAd
+climate_ads	topic_model	sync	group_1	DomesticOilAndGasProduction
+climate_ads	topic_model	sync	group_1	ClimateChange
+climate_ads	topic_model	sync	group_1	Pipeline
+climate_ads	topic_model	sync	group_1	BuildBackBetterAct
+climate_ads	topic_model	sync	group_1	AntiGridDeregulation
+climate_ads	topic_model	sync	group_1	LiberalTaxHikes
+climate_ads	topic_model	sync	group_1	NativeAmericanCulturalPreservation
+climate_ads	topic_model	sync	group_1	OilTheft/ClimateLeader
+climate_ads	topic_model	sync	group_1	NaturalGasIncentive/CleanEnergyPetition
+climate_ads	topic_model	sync	group_1	CleanEnergyProjects
+climate_ads	topic_model	sync	group_1	ColoradoAirQuality/SupportingBlackWomen
+climate_ads	topic_model	sync	group_2	gun rights
+climate_ads	topic_model	sync	group_2	climate action
+climate_ads	topic_model	sync	group_2	renewables
+climate_ads	topic_model	sync	group_2	inflation
+climate_ads	topic_model	sync	group_2	anti-woke
+climate_ads	topic_model	sync	group_2	organized cooking oil theft
+climate_ads	topic_model	sync	group_2	indigenous activism
+climate_ads	topic_model	sync	group_2	pro oil and natural gas
+climate_ads	topic_model	sync	group_2	TPUSA
+climate_ads	topic_model	sync	group_2	conservative school board
+climate_ads	relational	async	async_1	AdvocateForGreenEnergy
+climate_ads	relational	async	async_1	GreenPowerExpensive
+climate_ads	relational	async	async_1	ClimateActionDonation
+climate_ads	relational	async	async_1	GreenEnergyWorks
+climate_ads	relational	async	async_1	AdvocateForGreenEnergyPoliticalAction
+climate_ads	relational	async	async_1	AntiTax
+climate_ads	relational	async	async_1	GreenEnergySavesMoney
+climate_ads	relational	async	async_1	StopOilPollution
+climate_ads	relational	async	async_1	DemocratOutreach
+climate_ads	relational	async	async_1	OilCreatesJobs
+climate_ads	relational	async	async_1	NuclearAdvocacy
+climate_ads	relational	async	async_1	AntiWoke
+climate_ads	relational	async	async_2	AgencyToStopClimateChange
+climate_ads	relational	async	async_2	CallsToInvestInRenewableEnergy
+climate_ads	relational	async	async_2	NeedQuickResponseForClimateCrisis
+climate_ads	relational	async	async_2	PoliticalActivismForRenewableEnergy
+climate_ads	relational	async	async_2	DonateToSupportClimateChangeActivism
+climate_ads	relational	async	async_2	ChallengesFacingRenewableEnergy
+climate_ads	relational	async	async_2	PoliticalActivismForOilAndGas
+climate_ads	relational	async	async_2	SupportForRenewableEnergy
+climate_ads	relational	async	async_2	ProtectFromHarmsCausedByFossilFuels
+climate_ads	relational	async	async_2	InroadsMadeByOilAndGas
+climate_ads	relational	async	async_2	InroadsMadeByRenewableEnergy
+climate_ads	relational	async	async_2	EconomicAdvantagesOfRenewableEnergy
+climate_ads	relational	async	async_2	SupportForBuildBackBetterAct
+climate_ads	relational	async	async_2	SupportForOilAndGas
+climate_ads	relational	async	async_2	EconomicAdvantagesOfOilAndGas
+climate_ads	relational	async	async_2	InroadsMadeByNuclearEnergy
+climate_ads	relational	async	async_2	EconomicAdvantagesOfNuclearEnergy
+climate_ads	relational	async	async_3	LegislatorsMustActAgainstClimateChange
+climate_ads	relational	async	async_3	ClimateChangeDonations
+climate_ads	relational	async	async_3	OilAndGasExtractionRisks
+climate_ads	relational	async	async_3	NuclearEnergyBenefits
+climate_ads	relational	async	async_3	TackleClimateChange
+climate_ads	relational	async	async_3	ReduceEmissions
+climate_ads	relational	async	async_3	VirginiaConservativeCampaign
+climate_ads	relational	async	async_3	OilAndGasJobs
+climate_ads	relational	async	async_3	SouthwestGasInvestment
+climate_ads	relational	async	async_3	RenewableEnergyInfrastructureGrowth
+climate_ads	relational	async	async_3	NuclearEnergyEducation
+climate_ads	relational	async	async_3	OilAndGasTax
+climate_ads	relational	async	async_3	BuildBetterAct
+climate_ads	relational	async	async_3	RestoreVirginia
+climate_ads	relational	sync	group_1	DonationMatchingForClimate
+climate_ads	relational	sync	group_1	AbandonedWells
+climate_ads	relational	sync	group_1	GreenEnergyIsCostEffective
+climate_ads	relational	sync	group_1	ClimateEmergency
+climate_ads	relational	sync	group_1	NuclearRevenueSupportsJobs
+climate_ads	relational	sync	group_1	HazardsOfWells
+climate_ads	relational	sync	group_1	VirginiaConservatives
+climate_ads	relational	sync	group_1	DemandClimateActionFromLeaders
+climate_ads	relational	sync	group_1	PublicLandExploitation
+climate_ads	relational	sync	group_1	GreenEnergyCreatesJobs
+climate_ads	relational	sync	group_1	OilAndGasSupportJobs
+climate_ads	relational	sync	group_1	AntiFossilFuelInfrastructure
+climate_ads	relational	sync	group_1	CleanOilAndGas
+climate_ads	relational	sync	group_1	GreenEnergyCapacity
+climate_ads	relational	sync	group_1	CutMethane
+climate_ads	relational	sync	group_1	CommerceCityDemocrats
+climate_ads	relational	sync	group_1	RestoreVirginia
+climate_ads	relational	sync	group_1	ThankRepForBuildBackBetter
+climate_ads	relational	sync	group_1	BellbrookTaxRevolt
+climate_ads	relational	sync	group_1	BellbrookWokeRadicals
+climate_ads	relational	sync	group_1	GreenEnergySupportsCommunities
+climate_ads	relational	sync	group_1	NuclearEnergyProvidesTaxRevenue
+climate_ads	relational	sync	group_1	TellRepToNotRaiseOilGasTaxes
+climate_ads	relational	sync	group_1	OilAndGasProvidesWages
+climate_ads	relational	sync	group_1	CelebrateBuildBackBetter
+climate_ads	relational	sync	group_2	ClimateChangeMovements
+climate_ads	relational	sync	group_2	ClimateChangeDonations
+climate_ads	relational	sync	group_2	OilAndGasTaxesBad
+climate_ads	relational	sync	group_2	LawmakersAndOilAndGas
+climate_ads	relational	sync	group_2	RenewableEnergyPromotionAndGrowth
+climate_ads	relational	sync	group_2	CleanEnergyPromotion
+climate_ads	relational	sync	group_2	RenewableEnergyEconomicBenefits
+climate_ads	relational	sync	group_2	PoliticalTraining
+climate_ads	relational	sync	group_2	CallToActionAgainstOilAndGasIndustries
+climate_ads	relational	sync	group_2	CarbonEmissionReduction
+climate_ads	relational	sync	group_2	OilAndGasBoostEconomy
+climate_ads	relational	sync	group_2	PropertyTaxCampaign
+climate_ads	relational	sync	group_2	BuildBackBetterActCampaign
+climate_ads	relational	sync	group_2	RightWingCampaigns
+climate_ads	relational	sync	group_2	NuclearPowerOtherBenefits
+climate_ads	relational	sync	group_2	NuclearPowerEconomicBenefits
+climate_ads	llm-based	async	async_1	AntiWoke: Ads supporting alt-right and right wing ideology, especially targeting "woke" ideology and supporting anti-wokeness.
+climate_ads	llm-based	async	async_1	GreenEnergySavesMoney: Ads demonstrating that green energy and green policies save the government and the American people tax dollars (money).
+climate_ads	llm-based	async	async_1	DemocratOutreach: Ads supporting Democrat politicians especially targeting potential Democratic voters by demonstrating the value of Democrat policies.
+climate_ads	llm-based	async	async_1	AdvocateForGreenEnergy: Ads advocating for green energy policies, for example by highlighting the dangers of climate change.
+climate_ads	llm-based	async	async_1	GreenPowerExpensive: Ads highlighting the cost of green energy policies and initiatives, especially regarding tax dollars and cost to citizens.
+climate_ads	llm-based	async	async_1	GreenEnergyWorks: Ads that spread awareness for the results demonstrated by green energy policies, from job creation to powering homes to cost savings.
+climate_ads	llm-based	async	async_1	StopOilPollution: Ads advocating to stop oil use by spreading awareness of the ongoing effects of oil pollution.
+climate_ads	llm-based	async	async_1	AdvocateForGreenEnergyPoliticalAction: Ads targeting citizens and voters to take action and pressure Congress to push for green energy policies.
+climate_ads	llm-based	async	async_1	ClimateActionDonation: Ads for donation drives that help climate action, whether to take green energy initiatives or to protect the environment.
+climate_ads	llm-based	async	async_1	NuclearAdvocacy: Ads advocating for more nuclear energy initiatives, especially by framing nuclear energy as carbon-neutral.
+climate_ads	llm-based	async	async_1	AntiTax: Ads attacking policies which raise taxes, especially by fearmongering against laws that increase tax burdens (such as property tax).
+climate_ads	llm-based	async	async_1	OilCreatesJobs: Ads advocating for oil and other fossil fuel production by highlighting news where fossil fuel policies create jobs.
+climate_ads	llm-based	async	async_2	AgencyToStopClimateChange: Ads that stress the ability of the reader to stop climate change.
+climate_ads	llm-based	async	async_2	PoliticalActivismForRenewableEnergy: Ads calling for political action from readers to benefit renewable energy.
+climate_ads	llm-based	async	async_2	EconomicAdvantagesOfRenewableEnergy: Ads talking about the economic advantages of using renewable energy.
+climate_ads	llm-based	async	async_2	ChallengesFacingRenewableEnergy: Ads bringing to attention the limitations of renewable energy.
+climate_ads	llm-based	async	async_2	InroadsMadeByRenewableEnergy: Ads bringing to attention the climatic advances of renwable energy.
+climate_ads	llm-based	async	async_2	CallsToInvestInRenewableEnergy: Ads calling for investment in Renewable energy sources.
+climate_ads	llm-based	async	async_2	ProtectFromHarmsCausedByFossilFuels: Ads calling for action to stop the harm caused by oil and gas use.
+climate_ads	llm-based	async	async_2	NeedQuickResponseForClimateCrisis: Ads highlighting urgency in responding to climate crisis.
+climate_ads	llm-based	async	async_2	DonateToSupportClimateChangeActivism: Ads asking for economic support for climate change activism and movements.
+climate_ads	llm-based	async	async_2	EconomicAdvantagesOfOilAndGas: Ads highlighting the economic benefits of oil and gas.
+climate_ads	llm-based	async	async_2	PoliticalActivismForOilAndGas: Ads calling for political action from readers to benefit oil and gas energy.
+climate_ads	llm-based	async	async_2	InroadsMadeByOilAndGas: Ads bringing to attention the climatic advances brought about by oil and gas industry.
+climate_ads	llm-based	async	async_2	SupportForBuildBackBetterAct: Ads expressing adulation for the Build Back Better act.
+climate_ads	llm-based	async	async_2	EconomicAdvantagesOfNuclearEnergy: Ads expressing the economic advantages of nuclear energy.
+climate_ads	llm-based	async	async_2	InroadsMadeByNuclearEnergy: Ads highlighting the climatic and energy advances achieved by nuclear energy.
+climate_ads	llm-based	async	async_2	SupportForOilAndGas: Ads highlighting support for the oil and gas industry.
+climate_ads	llm-based	async	async_2	SupportForRenewableEnergy: Ads highlighting support for the renewable energy industry.
+climate_ads	llm-based	async	async_3	NuclearEnergyBenefits: Nuclear energy is clean, renewable and helps to combat climate change.
+climate_ads	llm-based	async	async_3	BuildBetterAct: Thanking legislators for passing the Build Better Act.
+climate_ads	llm-based	async	async_3	ReduceEmissions: Conversations around rediction of emissions and greenhouse gases.
+climate_ads	llm-based	async	async_3	NuclearEnergyEducation: Educating the people about the benefits of nuclear energy.
+climate_ads	llm-based	async	async_3	TackleClimateChange: Calling on people to be involved and be educated on how to combat climate change.
+climate_ads	llm-based	async	async_3	OilAndGasExtractionRisks: Oil and gas extraction is harming the environment and requires intervention.
+climate_ads	llm-based	async	async_3	VirginiaConservativeCampaign: Conservative election campaign asking for support for the Restore Virigina movement.
+climate_ads	llm-based	async	async_3	RenewableEnergyInfrastructureGrowth: Renewable energy adoption and usage is increasing compared to all other energy sources.
+climate_ads	llm-based	async	async_3	OilAndGasTax: Raising taxes on the oil and gas industry will raise energy prices.
+climate_ads	llm-based	async	async_3	OilAndGasJobs: The oil and gas industry supports thousands of jobs in the USA.
+climate_ads	llm-based	async	async_3	SouthwestGasInvestment: Reckless investment of Southwest Gas into new fossil fuel infrastructure.
+climate_ads	llm-based	async	async_3	ClimateChangeDonations: Seeking donations for combating climate change.
+climate_ads	llm-based	async	async_3	LegislatorsMustActAgainstClimateChange: Urging elected officials to take action against climate change.
+climate_ads	llm-based	async	async_3	RestoreVirginia: Conservatives seeking political support and donations for the Restore Virginia movement.
+climate_ads	llm-based	sync	group_1	VirginiaConservatives: Virginia Conservatives election campaign
+climate_ads	llm-based	sync	group_1	CommerceCityDemocrats: Commerce City council ads for democrats
+climate_ads	llm-based	sync	group_1	BellbrookWokeRadicals: Political adverts against the establishment “radical woke liberals”
+climate_ads	llm-based	sync	group_1	BellbrookTaxRevolt: Political adverts against increasing property taxes; urging residents to not only vote against, but actively rebel by boycotting property taxes.
+climate_ads	llm-based	sync	group_1	RestoreVirginia: Adverts offering educational information sessions and meetups to learn about the current political climate and how to support (mostly democratic) causes.
+climate_ads	llm-based	sync	group_1	GreenEnergyCreatesJobs: Clean and Renewable energy has led to an increase in investments and thus has created more jobs
+climate_ads	llm-based	sync	group_1	GreenEnergyIsCostEffective: Clean and Renewable energy is cheaper and more cost-effective than existing extractive methods.
+climate_ads	llm-based	sync	group_1	GreenEnergyCapacity: Factoids that list how much energy capacity is provided by green sources.
+climate_ads	llm-based	sync	group_1	GreenEnergySupportsCommunities: Statements of support for green energy specifically focused on how it will benefit communities.
+climate_ads	llm-based	sync	group_1	AbandonedWells: Statements on the need to clean up abandoned oil and gas wells. Typically, using funding from infrastructure projects creates new jobs.
+climate_ads	llm-based	sync	group_1	AntiFossilFuelInfrastructure: Political statements on the downsides of fossil fuel infrastructure for the economy and how this infrastructure is generally bad for the environment and health.
+climate_ads	llm-based	sync	group_1	HazardsOfWells: Statements of the hazardous nature of living near an oil or gas well.
+climate_ads	llm-based	sync	group_1	PublicLandExploitation: Condemnations of the exploitation of public land for oil and natural gas
+climate_ads	llm-based	sync	group_1	CutMethane: Calls to reduce methane emissions, specifically highlighting the massive impact that methane has.
+climate_ads	llm-based	sync	group_1	ClimateEmergency: Messages that reference climate change as a current “emergency”
+climate_ads	llm-based	sync	group_1	DemandClimateActionFromLeaders: Ads that encourage individuals to call their representatives or get in contact with them to demand climate change action.
+climate_ads	llm-based	sync	group_1	DonationMatchingForClimate: Ads requesting donations to climate change causes with donation matching included.
+climate_ads	llm-based	sync	group_1	OilAndGasSupportJobs: Benefits of Oil and Natural Gas in supporting more jobs
+climate_ads	llm-based	sync	group_1	OilAndGasProvidesWages: Ads advocating for oil and natural gas by emphasizing wages the industry supports.
+climate_ads	llm-based	sync	group_1	TellRepToNotRaiseOilGasTaxes: Ads urging people to contact reps to not increase taxes by claiming that it will hurt ‘economic recovery’.
+climate_ads	llm-based	sync	group_1	CleanOilAndGas: Adverts by Oil and Gas companies positioning themselves as pro-environment and emphasizing the reduced emissions from their manufacturing processes.
+climate_ads	llm-based	sync	group_1	NuclearRevenueSupportsJobs: Posts emphasizing that Nuclear Revenue supports jobs.
+climate_ads	llm-based	sync	group_1	NuclearEnergyProvidesTaxRevenue: Posts highlighting the tax revenue generated by Nuclear Energy in addition to the jobs created.
+climate_ads	llm-based	sync	group_1	CelebrateBuildBackBetter: Posts celebrating passage of Build Back Better act in the house and thanking their Representatives.
+climate_ads	llm-based	sync	group_1	ThankRepForBuildBackBetter: Posts urging people to thank representatives that helped pass Build Back better act.
+climate_ads	llm-based	sync	group_2	BuildBackBetterActCampaign: Calling for the passing of the Build Back Better Act. Many of the documents are thanking people for supporting and campaigning for the act.
+climate_ads	llm-based	sync	group_2	CallToActionAgainstOilAndGasIndustries: Documents usually have a clear call to action to fight against these industries. Some describe how harmful they are or focus on specific industries.
+climate_ads	llm-based	sync	group_2	CarbonEmissionReduction: Documents talk about why we need to reduce carbon emissions, or how we can reduce them, or specific actions that have helped, or are calls to action to reduce emissions.
+climate_ads	llm-based	sync	group_2	CleanEnergyPromotion: Documents describe why we need clean energy and advocate for their use.
+climate_ads	llm-based	sync	group_2	ClimateChangeDonations: Documents request donations to support movements against climate change.
+climate_ads	llm-based	sync	group_2	ClimateChangeMovements: Documents describe why it is important to fight climate change, or have specific calls to action to help fight climate change, or talk about organizations/groups that are fighting climate change.
+climate_ads	llm-based	sync	group_2	LawmakersAndOilAndGas: Documents asking people to reach out to lawmakers about oil and gas reforms.
+climate_ads	llm-based	sync	group_2	NuclearPowerEconomicBenefits: Describe how nuclear power creates jobs or supports the economy.
+climate_ads	llm-based	sync	group_2	NuclearPowerOtherBenefits: Environmental and community benefits of nuclear power.
+climate_ads	llm-based	sync	group_2	OilAndGasBoostEconomy: Describe how the oil and gas industries are good for the economy.
+climate_ads	llm-based	sync	group_2	OilAndGasTaxesBad: Describe why taxes on oil and gas industries are bad and campaigns against the taxes.
+climate_ads	llm-based	sync	group_2	PoliticalTraining: Describes classes/sessions that teach people about various political systems and their voting rights.
+climate_ads	llm-based	sync	group_2	PropertyTaxCampaign: Documents campaigning against property tax.
+climate_ads	llm-based	sync	group_2	RenewableEnergyEconomicBenefits: Documents describe how renewable energy creates jobs or supports the economy.
+climate_ads	llm-based	sync	group_2	RenewableEnergyPromotionAndGrowth: Documents describe why renewable energy is good and necessary, and how it has grown in usage in recent years.
+climate_ads	llm-based	sync	group_2	RightWingCampaigns: Campaigns against democrats and liberals.
